@@ -1,0 +1,8 @@
+{
+  "name": "@daividh/eslint-config",
+  "description": "Buldi config for ESLint",
+  "version": "0.0.0",
+  "private": true,
+  "type": "commonjs",
+  "devDependencies": {}
+}
